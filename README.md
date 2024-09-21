@@ -1,4 +1,4 @@
-## Twitter Card
+## tw-card
 
 - **Ana Sayfa (index.html):** Turizm firması hakkında genel bilgilerin, turistik yerlerin ve hizmetlerin tanıtıldığı ana sayfadır.
 - **Stiller (styles.css):** Sayfanın görsel düzeni ve tasarımını sağlayan CSS dosyasıdır. Responsive tasarım için gerekli medya sorguları da bu dosyada yer almaktadır.
